@@ -1,0 +1,3 @@
+sh job11_finbert4_ep5.sh
+sh job12_finbert4_ep5.sh
+
